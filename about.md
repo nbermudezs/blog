@@ -1,6 +1,19 @@
 ---
-layout: post
+layout: default-cv
 title: "About"
-author: "Nestor"
 permalink: /about/
 ---
+
+{% include career-profile.html %}
+
+{% if site.education_in_main %}
+    {% include education.html %}
+{% endif %}
+
+{% include experience.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
+
+{% include awards.html %}

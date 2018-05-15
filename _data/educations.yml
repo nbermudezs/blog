@@ -1,0 +1,18 @@
+- education:
+  degree: MSc. in Computer Science
+  time: 2017 - 2019
+  university: University of Illinois
+  location: Urbana, IL
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- education:
+  degree: BSc. in Computer Systems Engineering
+  time: 2010 - 2014
+  university: UNITEC
+  location: Honduras
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
