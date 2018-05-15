@@ -17,6 +17,11 @@ footer,
   // box-shadow: 0 2px 2px -2px $shadow-color;
   border-bottom: 2px solid $border-color;
   overflow: auto;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  min-height: 64px;
+  background: white;
 
   &-container {
     margin: 1rem auto;
@@ -90,4 +95,8 @@ footer {
     color: $default-color;
     font-size: .8rem;
   }
+}
+
+main {
+  margin-top: 70px;
 }
