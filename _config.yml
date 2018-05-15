@@ -1,0 +1,26 @@
+# Site settings
+title:          Nestor Bermudez
+description:    "Where I explain and rant about things"
+url:            "https://nbermudezs.github.io"
+
+# Author
+author:
+  name:         Nestor Bermudez
+  url:          http://nbermudezs.com
+  email:        nestor.bermudezs@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
