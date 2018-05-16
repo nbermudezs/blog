@@ -21,3 +21,9 @@ Recently I applied for graduate college and I had to write a bunch of statements
 So yes, I applied to a couple universities and I finally started my master’s in Computer Science at University of Illinois at Urbana-Champaign in Fall 2017. Pretty fun so far.
 
 There you go, now you know a little bit about me.
+
+Finally, as a current Fulbrighter I'm required to post this disclaimer:
+
+*This blog ([https://nbermudezs.com](https://nbermudezs.com)) is not an official site of the Fulbright Program or the U.S. Department of State.
+The views expressed on this site are entirely those of the author, Nestor Bermudez, and do not represent the views of
+the Fulbright Program, the U.S. Department of State, or any of its partner organizations.*
